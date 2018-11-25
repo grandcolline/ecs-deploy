@@ -1,0 +1,2 @@
+# ecs-deploy
+ECSのサービスをデプロイするためのDockerイメージ
